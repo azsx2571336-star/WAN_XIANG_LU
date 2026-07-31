@@ -1,0 +1,33 @@
+title: "《萬象錄》"
+subtitle: "世界法典"
+edition: "Official Edition"
+version: "1.0.0"
+language: "zh-TW"
+
+source:
+  format: "markdown"
+  canonical_repository: "azsx2571336-star/WAN_XIANG_LU"
+
+parts:
+  - name: "序"
+    chapters:
+      - "world-canon/00_序.md"
+
+  - name: "第一部｜世界（The World）"
+    chapters:
+      - "world-canon/01_世界宣言.md"
+      - "world-canon/02_世界法則.md"
+
+  - name: "第二部｜存在（Existence）"
+    chapters:
+      - "world-canon/03_人格.md"
+      - "world-canon/04_存在的形成.md"
+
+  - name: "第三部｜可能（Potential）"
+    chapters:
+      - "world-canon/05_潛力等級.md"
+      - "world-canon/06_世界影響力.md"
+
+  - name: "第四部｜歷史（History）"
+    chapters:
+      - "world-canon/07_歷史.md"
